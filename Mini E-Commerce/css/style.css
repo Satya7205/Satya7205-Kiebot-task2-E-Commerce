@@ -1,0 +1,27 @@
+.product-lists{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.offer-price{
+    font-weight: bold;
+}
+.normal-price{
+    color: gray;
+    text-decoration: line-through;
+
+}
+.discount-perc{
+    color: green;
+    font-weight: bold;
+
+}
+.footer{
+    min-height: 200px;
+    background-color: darkgray;
+}
+.main{
+    display:flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
